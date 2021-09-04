@@ -1,9 +1,8 @@
-# GoFiber Docker Boilerplate
+# Go Fiber Docker Boilerplate
 
 ## Development
 
 ### Start the application 
-
 
 ```bash
 go run app.go
@@ -18,6 +17,3 @@ docker run -d -p 3000:3000 gofiber
 ```
 
 Go to `http://localhost:3000`:
-
-
-![Go Fiber Docker Boilerplate](./go_fiber_boilerplate.gif)
