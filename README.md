@@ -1,10 +1,5 @@
 # GoFiber Docker Boilerplate
 
-![Reference](https://img.shields.io/github/release/gofiber/boilerplate.svg)
-
-## Modifications
-
-
 ## Development
 
 ### Start the application 
